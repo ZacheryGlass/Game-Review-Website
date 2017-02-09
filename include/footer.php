@@ -1,9 +1,9 @@
 <footer class='footer'>
-	<div class='container'>
-		<p class='text-muted'>
-			Website created by <a target='_blank' href='https://github.com/ZacheryGlass'>Zachery Glass</a>
-		</p>
-	</div>
+    <div class='container'>
+        <p class='text-muted'>
+            Website created by <a target='_blank' href='https://github.com/ZacheryGlass'>Zachery Glass</a>
+        </p>
+    </div>
 </footer>
 
 <!-- Bootstrap core JavaScript -->
